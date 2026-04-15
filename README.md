@@ -16,7 +16,8 @@
 ## 🔧 Instalación (opcional)
 
 Clonar el repositorio:
-
-```bash
 git clone https://github.com/tu-usuario/nombre-repo.git
+
+```
+
 ```
